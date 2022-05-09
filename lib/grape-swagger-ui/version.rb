@@ -1,7 +1,7 @@
 module Grape
   module Swagger
     module Ui
-      VERSION = "2.2.8"
+      VERSION = "4.11.0"
     end
   end
 end
